@@ -1,1 +1,21 @@
+# Python dependencies
 snakemake
+wget
+fastqc
+hisat2
+samtools
+subread    # incluye featureCounts
+argparse
+
+# R packages (instalar desde R, no via pip)
+# Requiere R >= 4.2.0
+# Instalar desde Bioconductor o CRAN:
+
+# R dependencies (manual)
+# - DESeq2
+# - ggplot2
+# - ggrepel
+# - pheatmap
+# - optparse
+
+#Para instalar las dependencias de Python: pip install -r requirements.txt
