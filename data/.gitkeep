@@ -1,1 +1,4 @@
+# Ignorar archivos de anotación y genoma por su gran tamaño
+data/annotation_files/
+data/genome/
 
