@@ -2,6 +2,9 @@
 Repositorio colaborativo del grupo 2-3, para la resolución de la actividad grupal de la asignatura: Introducción a la Programación Científica.
 
 ## Descripción del proyecto
+### 🧬 Esquema del pipeline
+
+![Esquema del pipeline](figures/pipeline_diagram.svg)
 
 Se presenta un un proyecto colaborativo por los integrantes del grupo 2-3 (alumnos de la UNIR en el **Master en Bioinformática**) para el análisis de RNA-seq.
 
