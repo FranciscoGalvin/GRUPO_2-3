@@ -2,7 +2,7 @@
 Repositorio colaborativo del grupo 2-3, para la resolución de la actividad grupal de la asignatura: Introducción a la Programación Científica.
 
 ## Descripción del proyecto
-### 🧬 Esquema del pipeline
+### Esquema del pipeline
 
 ![Esquema del pipeline](figures/pipeline_diagram.svg)
 
